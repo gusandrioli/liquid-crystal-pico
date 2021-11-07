@@ -2,7 +2,7 @@
 This package can be used in RP2040s to interface with a HD44780 without I2C, UART, or SPI.
 
 ## Installation
-Since this is package for [MicroPython](https://micropython.org/) and it's supposed to be used with a [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), you can copy the `liquid_crystal_pico.py` file and load it into Thonny and your microcontroller.
+Since this is a package for [MicroPython](https://micropython.org/) and it's supposed to be used with a [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), you can copy the `liquid_crystal_pico.py` file and load it into Thonny and your microcontroller.
 
 ## Quick Start
 A simple example running on a [Wokwi Emulator](https://github.com/wokwi) can be found [here](https://wokwi.com/arduino/projects/314638477337559617).
