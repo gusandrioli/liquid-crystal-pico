@@ -1,5 +1,5 @@
-# **LiquidCrystal LCD Library for RP2040 - Raspberry Pi Pico**
-This package can be used in RP2040s to interface with a HD44780 without I2C, UART, or SPI.
+# **Liquid Crystal Display (LCD) Library for RP2040 - Raspberry Pi Pico**
+This package can be used in RP2040s to interface with a HD44780 LCD without I2C, UART, or SPI.
 
 ## Installation
 Since this is a package for [MicroPython](https://micropython.org/) and it's supposed to be used with a [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), you can copy the `liquid_crystal_pico.py` file and load it into Thonny and your microcontroller.
